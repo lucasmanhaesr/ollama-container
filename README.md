@@ -1,4 +1,4 @@
-# Ollama em container
+# Gemma 4 em container no Ollama
 
 ## Requisitos:
 * Docker
