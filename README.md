@@ -2,6 +2,7 @@
 
 ## Requisitos:
 * Docker
+* Node 22
 
 ## build e run
 
