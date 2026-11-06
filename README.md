@@ -31,3 +31,7 @@ model:
   provider: "custom"
   base_url: "http://localhost:11435/v1"
 ```
+Executar benchmark, crie o .env na raiz do projeto e execute
+```bash
+node --env-file=.env bench-ollama.mjs
+```
